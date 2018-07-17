@@ -1,0 +1,11 @@
+{
+  "name": "ChatServer",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.14.0",
+    "pg":"^2.x"
+  },
+  "engines": {
+    "node": "^5.9.1"
+  }
+}
